@@ -1,6 +1,7 @@
 {
     "chat.tools.terminal.autoApprove": {
-        "pytest": true
+        "pytest": true,
+        "printf": true
     },
     "python.testing.pytestArgs": [
         "tests"
